@@ -1,0 +1,7 @@
+There should be one resource for one task
+  - because defined input param paylod should be there.
+  - there should not be param based clasification . if this param not available then different logic.
+- there shold be different put , Delete and post get to avoid conflict .
+- here we shold not think to create new file will make problem .
+    - keeping in different file will reduce development dependency across developers  and logical dependency across files.
+      
